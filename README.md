@@ -9,10 +9,10 @@ There are a number of design objectives:
 
 * Easy to learn interface for non-technical operators
 * Integrated PTZ camera preset shot section and management
-* Independent control of the ATEM Preview and Program busses
+* Independent control of the switcher Preview and Program busses
 * Flexible touch control positioning
 * Control of our upstream keyer
-* Bi-directional control reflecting Atem routing status at all times
+* Bi-directional control reflecting switcher routing status at all times
 * Touch-screen friendly design
 * Interlock to prevent PTZ camera moves if that PTZ camera is on-air
 
